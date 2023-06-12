@@ -1,6 +1,6 @@
 ### hello 🤝
 
-[![liompei's GitHub stats](https://github-readme-stats-henna-six-95.vercel.app/api?username=liompei&show_icons=true)](https://github.com/liompei/github-readme-stats)
+[![liompei's GitHub stats](https://github-readme-stats-henna-six-95.vercel.app/api?username=liompei&show_icons=true&count_private=true)](https://github.com/liompei/github-readme-stats)
 
 <!-- | **SUMMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
